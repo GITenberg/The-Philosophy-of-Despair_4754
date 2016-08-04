@@ -1,0 +1,60 @@
+_repo: The-Philosophy-of-Despair_4754
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jordan, David Starr
+    alias: Jordan, D. S. (David Starr)
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '1566'
+    url: http://www.gutenberg.org/2009/agents/1566
+    wikipedia: http://en.wikipedia.org/wiki/David_Starr_Jordan
+description: '"The excerpt of a poem that appears at the beginning of this book (Edward
+  Fitzgerald''s exquisite version of the Rubāʻiyāt of Omar Khayyám) is perhaps our
+  best expression of the sadness and the grandeur of insoluble problems. It is the
+  sweetness of philosophical sorrow which has no kinship with misery or distress.
+  In the strains of the saddest music the soul finds the keenest delight. The same
+  sweet, sorrowful pleasure is felt in the play of the mind about the riddles which
+  it cannot solve. In the presence of the infinite problem of life, the voice of Science
+  is dumb, for Science is the coordinate and corrected expression of human experience,
+  and human experience must stop with the limitations of human life. Man was not present
+  "When the foundations of the Earth were laid, " and beyond the certainty that they
+  were laid in wisdom and power, man can say little about them. Man finds in the economy
+  of nature "no trace of a beginning; no prospect of an end!" He may feel sure, with
+  Hutton, that "time is as long as space is wide." But he cannot conceive of space
+  as actually without limit, nor can he imagine any limiting conditions. He cannot
+  think of a period before time began, nor of a state in which time shall be no more.
+  The mind fails before the idea of time''s eternal continuity. So time becomes to
+  man merely the sequence of the earthly events in which he and his ancestors have
+  taken part. Though the meaning of time, space, existence lies beyond our reach,
+  yet some sort of solution of the infinite problem the human heart demands. We find
+  in life a power for action, limited though this power may be. Life is action, and
+  action is impossible if devoid of motive or hope. It is my purpose here to indicate
+  some part of the answer of Science to the Philosophy of Despair. Direct reply Science
+  has none. We cannot argue against a singer or a poet. The poet sings of what he
+  feels, but Science speaks only of what we know. We feel infinity, but we cannot
+  know it, for to the highest human wisdom the ultimate truths of the universe are
+  no nearer than to the child. Science knows no ultimate truths. These are beyond
+  the reach of man, and all that man knows must be stated in terms of his experience.
+  But as to human experience and conduct, Science has a word to say. Therefore Science
+  can speak of the causes and results of Pessimism. It can touch the practical side
+  of the riddle of life by asking certain questions, the answers to which lie within
+  the province of human experience. Among these are the following: Why is there a
+  "Philosophy of Despair?" Can Despair be wrought into healthful life? In what part
+  of the Universe are you and what are you doing?" (PsycINFO Database Record (c) 2010
+  APA, all rights reserved).'
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4754'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Pessimism'
+- GITenberg
+title: The Philosophy of Despair
+url: http://www.gutenberg.org/ebooks/4754
