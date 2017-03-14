@@ -1,5 +1,8 @@
 _repo: The-Philosophy-of-Despair_4754
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jordan, David Starr
@@ -43,6 +46,8 @@ description: '"The excerpt of a poem that appears at the beginning of this book 
   "Philosophy of Despair?" Can Despair be wrought into healthful life? In what part
   of the Universe are you and what are you doing?" (PsycINFO Database Record (c) 2010
   APA, all rights reserved).'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4754#The-Philosophy-of-Despair
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
